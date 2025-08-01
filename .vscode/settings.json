@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "d3d11.h": "c",
+        "windows.h": "c"
+    }
+}
